@@ -1,0 +1,16 @@
+# DiamaneOS issue tracker
+
+Bug reports and feature requests for DiamaneOS.
+
+Before opening an issue, search the existing ones and check the
+[known limitations](https://diamaneos.de).
+
+Include:
+
+- the DiamaneOS build (Settings > About phone > Build number)
+- what you did, what you expected and what happened
+- logs, if any. The Log Viewer app's Report button copies the log for you to
+  paste here. Read it first and remove anything personal, such as phone
+  numbers, account names or locations.
+
+Please don't report security vulnerabilities in public issues.
