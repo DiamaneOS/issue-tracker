@@ -13,4 +13,5 @@ A good report includes:
   for you to paste here. Read it first and remove anything personal, such as
   phone numbers, account names or locations.
 
-Please don't report security vulnerabilities in public issues.
+Report security vulnerabilities privately to security@diamaneos.de, not in
+public issues.
