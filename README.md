@@ -5,13 +5,13 @@ Bug reports and feature requests for DiamaneOS on the Fairphone 6.
 Before opening an issue, search the existing ones and check the
 [known limitations](https://diamaneos.de).
 
-A good report includes:
+Include:
 
 - the DiamaneOS build (Settings > About phone > Build number);
 - what you did, what you expected and what happened;
-- logs, if there are any: the Log Viewer app's Report button copies the log
-  for you to paste here. Read it first and remove anything personal, such as
-  phone numbers, account names or locations.
+- logs, if any: the Log Viewer app's Report button copies the log for you to
+  paste here. Read it first and remove anything personal, such as phone
+  numbers, account names or locations.
 
 Report security vulnerabilities privately to security@diamaneos.de, not in
 public issues.
