@@ -3,7 +3,7 @@
 Bug reports and feature requests for DiamaneOS.
 
 Before opening an issue, search the existing ones and check the
-[known limitations](https://diamaneos.de).
+[known limitations](https://diamaneos.de/limitations/).
 
 Include:
 
