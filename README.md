@@ -3,7 +3,7 @@
 Bug reports and feature requests for DiamaneOS on the Fairphone 6.
 
 Before opening an issue, search the existing ones and check the
-[known limitations](https://diamaneos.de).
+[known limitations](https://diamaneos.de/limitations/).
 
 Include:
 
