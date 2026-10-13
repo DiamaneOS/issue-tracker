@@ -1,0 +1,35 @@
+name: Bug report
+description: Something in DiamaneOS does not work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search the [existing issues](https://github.com/DiamaneOS/issue-tracker/issues?q=is%3Aissue) and check the [known limitations](https://diamaneos.de/limitations/) first.
+
+        Report security vulnerabilities privately to security@diamaneos.de, not here.
+  - type: input
+    id: build
+    attributes:
+      label: Build number
+      description: Settings > About phone > Build number.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: worked
+    attributes:
+      label: Last build where it worked
+      description: Leave empty if it never worked or you do not know.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: The Log Viewer app's Report button copies the log. Read it first and remove anything personal, such as phone numbers, account names or locations.
+      render: text

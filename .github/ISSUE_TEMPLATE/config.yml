@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://diamaneos.de/security/
+    about: Report vulnerabilities privately by email, not in a public issue.
+  - name: Known limitations
+    url: https://diamaneos.de/limitations/
+    about: Check these before reporting a bug.

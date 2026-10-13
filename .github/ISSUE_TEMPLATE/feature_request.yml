@@ -1,0 +1,21 @@
+name: Feature request
+description: Something DiamaneOS should do or do differently.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search the [existing issues](https://github.com/DiamaneOS/issue-tracker/issues?q=is%3Aissue) first.
+  - type: textarea
+    id: what
+    attributes:
+      label: What should change
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: The problem it solves or what it makes possible.
+    validations:
+      required: true
